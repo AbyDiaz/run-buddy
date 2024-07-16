@@ -1,15 +1,20 @@
 /* im a css comment*/
 
-body{
+body {
   font-family: Arial, Helvetica, sans-serif;
-  color: #d77c5b;
+  color: #c0bb6c;
 }
 
 /* header styles*/
 
-header{
+header h1 {
   font-weight: bold;
   font-size: 36px;
   color: 	#a6453c;
   margin: 0;
 }
+
+header a {
+  color: #3a1212;
+}
+
